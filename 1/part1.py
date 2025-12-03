@@ -1,4 +1,4 @@
-file = open('input.txt').readlines()
+file = open("input.txt").readlines()
 
 dial = 50
 password = 0
